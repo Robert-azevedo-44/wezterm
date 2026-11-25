@@ -1,0 +1,3 @@
+# Wezterm
+
+WIP.
